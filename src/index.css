@@ -1,0 +1,50 @@
+body {
+  background-color: black;
+}
+
+
+.card {
+  max-width: 300px;
+  border: 5px solid #28008f;
+  border-radius: 15px;
+  background-color: #272727;
+  color: #f0f8ff;
+  font-family: Arial;
+  position: relative;
+  padding: 3px;
+}
+.card div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.card div img {
+  width: 95%;
+  border: 2px solid #900590;
+  border-radius: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#loggin_page {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  background: #272727;
+}
